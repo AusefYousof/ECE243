@@ -1,4 +1,5 @@
-**ECE 243: Computer Organizaiton**
+# ECE 243
+Computer Organizaiton
 Final lab - Enhanced processor coded in verilog 
 Final Course Project - Space race game with interactive UI and controllable through DE1-SOC board, coded in C.
 
